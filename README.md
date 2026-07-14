@@ -1,2 +1,3 @@
 # python-model
-generating poetic text
+generating poetic text,
+image_classification
